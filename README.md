@@ -1,4 +1,4 @@
-![#️⃣](Calculadora/app/src/main/res/mipmap-xxxhdpi/ic_calculadora.png)
+![#️⃣](app\src\main\res\mipmap-xxxhdpi\ic_calculadora.png)
 
 
 # <span style="color: goldenrod">CalcSMR</span>
@@ -25,10 +25,10 @@ _La calculadora deberia ser capaz de realizar las operaciones necesarias para re
 _Lo idóneo es que la calculadora se programara para dispositivos móviles, en concreto para Android, no obstante, para los usuarios de iPhone se desarrolla una aplicación hermana en HTML, portable a cualquier sistema._
 
 Para instalar la versión **Android**, descarca el archivo **APK** el la memoria interna del terminal y mediante un emplorador de archivos (como el que está integrado en las aplicaciones de **Google**) ejecute el archivo. Se abrirá automaticamente el instalador de paquetes de **Android**. Debe asegurarse de que ha activado la instalación de **apps** desde origenes desconocidos o sino el dispositivo no le dejará instalar el paquete. 
-* Versión **Android**: [<span style="color: goldenrod;">CalcSMR.apk</span>](/APK/CalcSMR_1_2.apk)
+* Versión **Android**: [<span style="color: goldenrod;">CalcSMR.apk</span>](/APK/CalcSMR-1.2.apk)
   
 El código de La versión **HTML** se encuentra en un único archivo web, para ejecutarlo en un **PC** solo hay que arrastrarlo al navegador de Internet. También puede ser embebido en otra página mediante una etiqueta **\<iframe\>**. \
-* Versión **HTML**: [<span style="color: goldenrod;">CalcSMR.html</span>](/HTML/CalcSMR.html) 
+* Versión **HTML**: [<span style="color: goldenrod;">CalcSMR.html</span>](/HTML/CalcSMR-1.2.html) 
 
 ## Licencia
 
