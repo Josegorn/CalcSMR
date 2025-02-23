@@ -1,4 +1,4 @@
-![#️⃣](app\src\main\res\mipmap-xxxhdpi\ic_calculadora.png)
+![#️⃣](app/src/main/res/mipmap-xxxhdpi/ic_calculadora.png)
 
 
 # <span style="color: goldenrod">CalcSMR</span>
