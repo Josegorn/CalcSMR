@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="boton" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_marginStart">2dp</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginEnd">2dp</item>
+        <item name="android:layout_marginBottom">2dp</item>
+        <item name="android:backgroundTintMode">screen</item>
+        <item name="android:elevation">8sp</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:fontFamily">@font/days_one</item>
+        <item name="android:foregroundGravity">top</item>
+        <item name="android:foregroundTintMode">src_atop</item>
+        <item name="android:gravity">center</item>
+        <item name="android:hapticFeedbackEnabled">true</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:insetLeft">4dp</item>
+        <item name="android:insetTop">4dp</item>
+        <item name="android:insetRight">4dp</item>
+        <item name="android:insetBottom">4dp</item>
+        <item name="android:isScrollContainer">false</item>
+        <item name="android:keepScreenOn">false</item>
+        <item name="android:layoutDirection">inherit</item>
+        <item name="android:outlineProvider">background</item>
+        <item name="android:padding">8sp</item>
+        <item name="android:selectAllOnFocus">false</item>
+        <item name="android:shadowColor">@color/sombra</item>
+        <item name="android:shadowDx">2</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">25</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="autoSizeTextType">none</item>
+        <item name="cornerRadius">8dp</item>
+        <item name="iconTintMode">src_over</item>
+        <item name="layout_constraintHorizontal_bias">1.0</item>
+        <item name="layout_constraintVertical_bias">1.0</item>
+        <item name="layout_goneMarginEnd">2dp</item>
+        <item name="layout_goneMarginTop">2dp</item>
+    </style>
+
+    <style name="boton_numero" parent="boton">
+        <item name="android:backgroundTint">@color/BNumero</item>
+        <item name="android:textColor">@color/blanco</item>
+        <item name="android:textSize">34sp</item>
+        <item name="strokeColor">@color/oscuro</item>
+    </style>
+
+    <style name="boton_rojo" parent="boton">
+        <item name="android:backgroundTint">@color/rojo</item>
+        <item name="android:textColor">@color/blanco</item>
+        <item name="android:textSize">25sp</item>
+        <item name="strokeColor">@color/oscuro</item>
+    </style>
+
+    <style name="boton_blanco" parent="boton">
+        <item name="android:backgroundTint">@color/marfil</item>
+        <item name="android:textColor">@color/negro</item>
+        <item name="android:textSize">38sp</item>
+        <item name="strokeColor">@color/oscuro</item>
+    </style>
+
+    <style name="boton_operador" parent="boton">
+        <item name="android:backgroundTint">@color/ambar</item>
+        <item name="android:textColor">@color/oscuro</item>
+        <item name="android:textSize">38sp</item>
+        <item name="strokeColor">@color/oscuro</item>
+    </style>
+
+    <style name="boton_rosa" parent="boton">
+        <item name="android:backgroundTint">@color/rosa</item>
+        <item name="android:textColor">@color/oscuro</item>
+        <item name="android:textSize">38sp</item>
+        <item name="strokeColor">@color/oscuro</item>
+    </style>
+
+    <style name="boton_cielo" parent="boton">
+        <item name="android:backgroundTint">@color/cielo</item>
+        <item name="android:textColor">@color/oscuro</item>
+        <item name="android:textSize">38sp</item>
+        <item name="strokeColor">@color/oscuro</item>
+    </style>
+
+    <style name="boton_magenta_claro" parent="boton">
+        <item name="android:backgroundTint">@color/magenta_claro</item>
+        <item name="android:textColor">@color/oscuro</item>
+        <item name="android:textSize">38sp</item>
+        <item name="strokeColor">@color/oscuro</item>
+    </style>
+
+    <style name="boton_azul" parent="boton">
+        <item name="android:backgroundTint">@color/azul</item>
+        <item name="android:textColor">@color/oscuro</item>
+        <item name="android:textSize">38sp</item>
+        <item name="strokeColor">@color/oscuro</item>
+    </style>
+
+    <style name="boton_magenta" parent="boton">
+        <item name="android:backgroundTint">@color/magenta</item>
+        <item name="android:textColor">@color/blanco</item>
+        <item name="android:textSize">38sp</item>
+        <item name="strokeColor">@color/oscuro</item>
+    </style>
+
+    <style name="boton_negro" parent="boton">
+        <item name="android:backgroundTint">@color/negro</item>
+        <item name="android:textColor">@color/blanco</item>
+        <item name="android:textSize">38sp</item>
+        <item name="strokeColor">@color/oscuro</item>
+    </style>
+
+</resources>

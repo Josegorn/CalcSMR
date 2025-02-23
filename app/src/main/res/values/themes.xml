@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Calculadora" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/BNumero</item>
+        <item name="colorPrimaryVariant">@color/oscuro</item>
+        <item name="colorOnPrimary">@color/blanco</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/magenta</item>
+        <item name="colorSecondaryVariant">@color/rojo</item>
+        <item name="colorOnSecondary">@color/negro</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>
